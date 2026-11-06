@@ -92,14 +92,6 @@ jupyter notebook notebook/main.ipynb
 
 Place the input CSVs in `data/` first (see [`data/README.md`](data/README.md)). To run it in Google Colab, upload the CSVs and set `DATA = "/content/"` in the first code cell.
 
-## 👥 Team
-
-Developed as a team project for the Business Intelligence course at Universidad Politécnica de Yucatán (2026):
-
-- Jorge Luis Castillo Ruz
-- Saralet Chan Ramos
-- Karime Pacheco Gallegos
-- Giovanni Soriano Pacheco
 
 ## 📝 Licenses
 
